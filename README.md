@@ -12,7 +12,8 @@ IDE: Visual Studio Code
 Terminal: Bash or Command Prompt
 
 ## Components
-App Component
+## App Component
+
 The App component serves as the main component of the application. It manages the state of the memes fetched from the API, the currently displayed meme, user-entered captions, and the list of favorite memes. It also contains the header, footer, and other child components.
 
 ## Header Component
