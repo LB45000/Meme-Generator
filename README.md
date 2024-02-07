@@ -2,7 +2,7 @@
 About
 This project is a meme generator web application built using React. It allows users to fetch memes from an external API, add custom captions, and mark memes as favorites for quick access.
 
-##Technologies
+## Technologies
 React
 HTML
 CSS
